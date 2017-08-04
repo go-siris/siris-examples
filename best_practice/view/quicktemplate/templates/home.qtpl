@@ -1,4 +1,4 @@
-{% import "github.com/go-siris/siris/context" %}%}
+{% import "github.com/go-siris/siris/context" %}
 
 {% code
 type HomePage struct {
